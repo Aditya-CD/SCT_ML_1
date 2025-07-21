@@ -22,7 +22,7 @@ A Machine Learning-powered web application that predicts house prices in India b
 
 ## 🚀 Demo
 
-Live demo (optional): [Streamlit App](#) *(Coming Soon or Hosted Link)*
+Live demo (optional): [Streamlit App](#) *(Coming Soon)*
 
 ---
 
@@ -38,9 +38,8 @@ This project utilizes **Linear Regression** from `scikit-learn` to build a predi
 
 Here you can visualize the distribution of features such as bedrooms, bathrooms, size, etc.
 
-> 📌 Replace the image below with your actual feature histograms.
 
-![Feature Histogram Placeholder](https://via.placeholder.com/600x300?text=Feature+Histogram)
+![Feature Histogram Placeholder](https://github.com/Aditya-CD/SCT_ML_1/blob/main/visuals/histogram.png)
 
 ---
 
@@ -48,9 +47,8 @@ Here you can visualize the distribution of features such as bedrooms, bathrooms,
 
 A heatmap to analyze the correlation between different features in the dataset.
 
-> 📌 Replace the image below with your actual heatmap.
 
-![Correlation Heatmap Placeholder](https://via.placeholder.com/600x300?text=Correlation+Heatmap)
+![Correlation Heatmap Placeholder](https://github.com/Aditya-CD/SCT_ML_1/blob/main/visuals/heatmap.png)
 
 ---
 
@@ -60,7 +58,8 @@ Below is the screenshot of the web-based interface created using Streamlit.
 
 > 📌 Replace the image below with your actual web app screenshot.
 
-![Web App UI Placeholder](https://via.placeholder.com/600x300?text=Streamlit+Web+App+Interface)
+![Web App UI Placeholder]<img width="1365" height="635" alt="Screenshot 2025-07-19 160143" src="https://github.com/user-attachments/assets/2fff8368-fe52-4293-9938-705e66076bde" />
+
 
 ---
 
@@ -79,7 +78,7 @@ Below is the screenshot of the web-based interface created using Streamlit.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/house-price-predictor.git
+   git clone https://github.com/ADITYA-CD/house-price-predictor.git
    cd house-price-predictor
    ```
 
@@ -102,7 +101,7 @@ house-price-predictor/
 │
 ├── data/                  # Dataset (CSV or Excel)
 ├── model/                 
-│   └── model.pkl          # Trained Linear Regression model
+│   └── model.pkl          # Trained Linear Regression and Random Forest model
 ├── visuals/               
 │   ├── histogram.png      # Feature distribution plots
 │   └── heatmap.png        # Feature correlation heatmap
@@ -115,7 +114,7 @@ house-price-predictor/
 
 ## 🔮 Future Work
 
-- Integrate more advanced models like Random Forest or XGBoost.
+- Integrate more advanced models like XGBoost.
 - Include geolocation-based predictions.
 - Deploy on **Streamlit Cloud** or **Hugging Face Spaces**.
 - Add a comparison dashboard for different model performances.
