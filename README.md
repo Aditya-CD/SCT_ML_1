@@ -22,7 +22,7 @@ A Machine Learning-powered web application that predicts house prices in India b
 
 ## 🚀 Demo
 
-Live demo (optional): [Streamlit App](#) *(Coming Soon)*
+Live demo: *(Coming Soon)*
 
 ---
 
