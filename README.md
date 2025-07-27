@@ -56,9 +56,8 @@ A heatmap to analyze the correlation between different features in the dataset.
 
 Below is the screenshot of the web-based interface created using Streamlit.
 
-> 📌 Replace the image below with your actual web app screenshot.
 
-![Web App UI Placeholder]<img width="1365" height="635" alt="Screenshot 2025-07-19 160143" src="https://github.com/user-attachments/assets/2fff8368-fe52-4293-9938-705e66076bde" />
+<img width="1365" height="635" alt="Screenshot 2025-07-19 160143" src="https://github.com/user-attachments/assets/2fff8368-fe52-4293-9938-705e66076bde" />
 
 
 ---
